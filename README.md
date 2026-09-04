@@ -1,6 +1,6 @@
 # ARIA — Adaptive Reasoning & Imagination Agent
 
-> A from-scratch research project for building an integrated intelligent agent combining **Vision, Language, Multimodal Learning, Reasoning, Planning, World Models, Memory, and Reinforcement Learning**.
+> A research project for building an integrated intelligent agent combining **Vision, Language, Multimodal Learning, Reasoning, Planning, World Models, Memory, and Reinforcement Learning**.
 
 ---
 
